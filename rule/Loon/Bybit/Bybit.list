@@ -1,0 +1,35 @@
+# NAME: Bybit
+# AUTHOR: Rulify
+# REPO: https://github.com/Jes3012/rules
+# UPDATED: 2026-10-23 23:00:29
+# DOMAIN-SUFFIX: 29
+# TOTAL: 29
+DOMAIN-SUFFIX,amazon.com
+DOMAIN-SUFFIX,apple.com
+DOMAIN-SUFFIX,appsflyersdk.com
+DOMAIN-SUFFIX,byabcd.com
+DOMAIN-SUFFIX,byabcde.com
+DOMAIN-SUFFIX,byapps.net
+DOMAIN-SUFFIX,bybdc6.com
+DOMAIN-SUFFIX,bybit.biz
+DOMAIN-SUFFIX,bybit.com
+DOMAIN-SUFFIX,bycsi.com
+DOMAIN-SUFFIX,byd3c3.com
+DOMAIN-SUFFIX,bynbc.com
+DOMAIN-SUFFIX,d1d1tgl4d7ijkp.cloudfront.net
+DOMAIN-SUFFIX,d1qql4erb7d4hm.cloudfront.net
+DOMAIN-SUFFIX,d1znqpii6yeci9.cloudfront.net
+DOMAIN-SUFFIX,d2twlc9j3xrrm5.cloudfront.net
+DOMAIN-SUFFIX,d3utg2p11b4p8p.cloudfront.net
+DOMAIN-SUFFIX,device-provisioning.googleapis.com
+DOMAIN-SUFFIX,fcmtoken.googleapis.com
+DOMAIN-SUFFIX,ffbbbdc6d3c353211fe2ba39c9f744cd.com
+DOMAIN-SUFFIX,ffe390afd658c19dcbf707e0597b846d.de
+DOMAIN-SUFFIX,firebaseinstallations.googleapis.com
+DOMAIN-SUFFIX,google.com
+DOMAIN-SUFFIX,ng-dex.com
+DOMAIN-SUFFIX,online-metrix.net
+DOMAIN-SUFFIX,s3.ap-southeast-1.amazonaws.com
+DOMAIN-SUFFIX,triple.app
+DOMAIN-SUFFIX,turingfraud.net
+DOMAIN-SUFFIX,wsot2022.com

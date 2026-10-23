@@ -1,0 +1,25 @@
+# NAME: Gate
+# AUTHOR: Rulify
+# REPO: https://github.com/Jes3012/rules
+# UPDATED: 2026-10-23 23:00:29
+# DOMAIN: 3
+# DOMAIN-SUFFIX: 15
+# TOTAL: 18
+DOMAIN,cdn.builder.io
+DOMAIN,gimg2.staticimgs.com
+DOMAIN,shortsgp.im.qcloud.com
+DOMAIN-SUFFIX,adjust.com
+DOMAIN-SUFFIX,airpackapp.com
+DOMAIN-SUFFIX,app-analytics-services.com
+DOMAIN-SUFFIX,apple.com
+DOMAIN-SUFFIX,appsflyersdk.com
+DOMAIN-SUFFIX,bxjddjt.com
+DOMAIN-SUFFIX,freshmarkethome.com
+DOMAIN-SUFFIX,gate.com
+DOMAIN-SUFFIX,ldd678.com
+DOMAIN-SUFFIX,onelink.me
+DOMAIN-SUFFIX,panpno.com
+DOMAIN-SUFFIX,s3.ap-northeast-1.amazonaws.com
+DOMAIN-SUFFIX,smartappnet.net
+DOMAIN-SUFFIX,tsarvgh.com
+DOMAIN-SUFFIX,zudanje.com

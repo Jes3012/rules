@@ -1,0 +1,35 @@
+# NAME: Mexc
+# AUTHOR: Rulify
+# REPO: https://github.com/Jes3012/rules
+# UPDATED: 2026-10-23 23:00:29
+# DOMAIN: 5
+# DOMAIN-SUFFIX: 23
+# TOTAL: 28
+DOMAIN,act.ds.kakao.com
+DOMAIN,analytics.ad.daum.net
+DOMAIN,ov-1d104299d2a447049cdc73700c9309f7.ecs.us-west-2.on.aws
+DOMAIN,pushstat.api.engagelab.cc
+DOMAIN,www.gstatic.com
+DOMAIN-SUFFIX,ahrefs.com
+DOMAIN-SUFFIX,aliyuncs.com
+DOMAIN-SUFFIX,app-analytics-services.com
+DOMAIN-SUFFIX,appsflyersdk.com
+DOMAIN-SUFFIX,coldbookfly.ru
+DOMAIN-SUFFIX,dgshen.com
+DOMAIN-SUFFIX,facebook.com
+DOMAIN-SUFFIX,facebook.net
+DOMAIN-SUFFIX,firebaseinstallations.googleapis.com
+DOMAIN-SUFFIX,flytogarden.com
+DOMAIN-SUFFIX,geetest.com
+DOMAIN-SUFFIX,google.com
+DOMAIN-SUFFIX,gotoda.co
+DOMAIN-SUFFIX,greentreeone.com
+DOMAIN-SUFFIX,hotbookzone.com
+DOMAIN-SUFFIX,mexc.com
+DOMAIN-SUFFIX,mocortech.com
+DOMAIN-SUFFIX,moloco.com
+DOMAIN-SUFFIX,moss-risk.com
+DOMAIN-SUFFIX,pubmatic.com
+DOMAIN-SUFFIX,s3-app-release.s3.ap-northeast-1.amazonaws.com
+DOMAIN-SUFFIX,taboola.com
+DOMAIN-SUFFIX,turingfraud.net

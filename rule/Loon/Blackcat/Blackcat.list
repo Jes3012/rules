@@ -1,0 +1,13 @@
+# NAME: Blackcat
+# AUTHOR: Rulify
+# REPO: https://github.com/Jes3012/rules
+# UPDATED: 2026-10-23 23:00:29
+# DOMAIN-SUFFIX: 7
+# TOTAL: 7
+DOMAIN-SUFFIX,adjust.com
+DOMAIN-SUFFIX,apple.com
+DOMAIN-SUFFIX,blackcat.app
+DOMAIN-SUFFIX,firebaseappcheck.googleapis.com
+DOMAIN-SUFFIX,firebaseinstallations.googleapis.com
+DOMAIN-SUFFIX,kommunicate.io
+DOMAIN-SUFFIX,localazy.com

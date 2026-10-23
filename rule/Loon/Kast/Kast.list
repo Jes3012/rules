@@ -1,0 +1,11 @@
+# NAME: Kast
+# AUTHOR: Rulify
+# REPO: https://github.com/Jes3012/rules
+# UPDATED: 2026-10-23 23:00:29
+# DOMAIN: 1
+# DOMAIN-SUFFIX: 3
+# TOTAL: 4
+DOMAIN,cdn.braze.com
+DOMAIN-SUFFIX,ip-api.com
+DOMAIN-SUFFIX,kastapi.com
+DOMAIN-SUFFIX,lokalise.com
