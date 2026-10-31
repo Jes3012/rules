@@ -1,12 +1,9 @@
 # NAME: HarkPro
 # AUTHOR: Rulify
 # REPO: https://github.com/Jes3012/rules
-# UPDATED: 2026-10-31 08:36:38
-# DOMAIN: 2
+# UPDATED: 2026-10-31 08:36:44
 # DOMAIN-SUFFIX: 7
-# TOTAL: 9
-DOMAIN,hark-media-prod.s3.us-west-2.amazonaws.com
-DOMAIN,static.cloudflareinsights.com
+# TOTAL: 7
 DOMAIN-SUFFIX,hark.com
 DOMAIN-SUFFIX,jhnwr.com
 DOMAIN-SUFFIX,ldrws.com
