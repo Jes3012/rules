@@ -1,10 +1,7 @@
 # NAME: HarkPro
 # AUTHOR: Rulify
 # REPO: https://github.com/Jes3012/rules
-# UPDATED: 2026-10-31 08:36:51
-# DOMAIN-SUFFIX: 4
-# TOTAL: 4
+# UPDATED: 2026-10-31 08:36:57
+# DOMAIN-SUFFIX: 1
+# TOTAL: 1
 DOMAIN-SUFFIX,hark.com
-DOMAIN-SUFFIX,ldrws.com
-DOMAIN-SUFFIX,nap5k.com
-DOMAIN-SUFFIX,vyceai.com
